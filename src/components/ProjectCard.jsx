@@ -27,7 +27,7 @@ const ProjectCard = ({ imgSrc, title, tags, projectLink, classes }) => {
                 </div>
             </div>
 
-            <a href={projectLink} className='absolute inset-0'></a>
+            <a href={projectLink} target='_blank' className='absolute inset-0'></a>
         </div>
     );
 };

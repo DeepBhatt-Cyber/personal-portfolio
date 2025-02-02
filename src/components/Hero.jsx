@@ -19,7 +19,7 @@ export default function Hero() {
             <div>
                 <div className='gelx items-center gap-3'>
                     <figure className='img-box w-9 h-9 rounded-lg'>
-                        <img src='/images/deep_bhatt.jpeg' 
+                        <img src='/images/deep_bhatt.png' 
                         alt='Deep Bhatt portrait'
                         width={40}
                         height={40}
@@ -34,7 +34,7 @@ export default function Hero() {
                     Available for work
                 </div>
                 </div>
-                <h2 className='headline-1 max-w-[15ch] sm:max-w-20ch] lg:max-w-[15ch] mt-5 mb-8 lg:mb-10'>Building Scalable Modern Websites for the Future
+                <h2 className='headline-1 max-w-[15ch] sm:max-w-20ch] lg:max-w-[15ch] mt-5 mb-8 lg:mb-10'>Your Next Developer, Ready to Build
                 </h2>
 
                 <div className='flex items-center gap-3'>
@@ -46,7 +46,7 @@ export default function Hero() {
             </div>
             <div className='hidden lg:block'>
                 <figure className='w-full max-w-[480px] ml-auto bg-gradient-to-t from-sky-400 via-25% via-sky-400/40 to-65% rounded-[60px] overflow-hidden'>
-                    <img src='/images/deep_bhatt.jpeg' 
+                    <img src='/images/deep_bhatt.png' 
                     alt='Deep Bhatt'
                     width={656}
                     height={800}

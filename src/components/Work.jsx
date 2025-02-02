@@ -12,22 +12,22 @@ import ProjectCard from './ProjectCard';
 
 const works = [
     {
-      imgSrc: '/images/portfolio.png',
+      imgSrc: '/images/project-1.png',
       title: 'Personal Portfolio',
       tags: ['Web-design', 'Development'],
+      projectLink: 'https://github.com/DeepBhatt-Cyber/personal-portfolio/tree/main'
+    },
+    {
+      imgSrc: '/images/project-4.jpg',
+      title: 'Real Estate Website',
+      tags: ['Property', 'Development'],
       projectLink: '/'
     },
     {
-      imgSrc: '/images/project-5.jpg',
-      title: 'eCommerce website',
-      tags: ['eCommerce', 'Development'],
-      projectLink: '/'
-    },
-    {
-      imgSrc: '/images/project-6.jpg',
-      title: 'vCard Personal portfolio',
-      tags: ['Web-design', 'Development'],
-      projectLink: '/'
+      imgSrc: '/images/project-5.png',
+      title: 'News Website',
+      tags: ['Live-News', 'Development'],
+      projectLink: 'https://github.com/DeepBhatt-Cyber/NewsAajTak'
     },
   ];
 
