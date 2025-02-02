@@ -21,7 +21,7 @@ export default function Header() {
         <div className='max-w-screen-2xl w-full mx-auto px-4 flex justify-between items-center '> 
             <h1>
                 <a href='/' className='logo'>
-                    <img src='/images/db-logo.svg' alt='Deep Bhatt' width={40} height={40} />
+                    <img src='/images/db-logo.svg' className='rounded-xl' alt='Deep Bhatt' width={40} height={40} />
                 </a>
             </h1>
             <div className='relative md:justify-self-center'>

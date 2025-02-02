@@ -67,7 +67,7 @@ export default function Experience() {
             <h2 className='headline-2 mb-8 reveal-up'>
                Work Experience
             </h2>
-            <div className='grid gap-x-4 gap-y-5 grid-cols-[repeat(auto-fill,_minmax(380px,_1fr))] reveal-up'>
+            <div className='grid gap-x-4 gap-y-5 grid-cols-1 lg:grid-cols-2 reveal-up'>
                 {experience.map(({company, position, startTime, endTime, location, content }, key) => (
                     <ExperienceCard key={key} company={company} position={position} startTime={startTime} endTime={endTime} location={location} content={content} />
                 ))}
