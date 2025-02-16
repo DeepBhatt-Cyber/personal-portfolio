@@ -32,12 +32,12 @@ export default function Navbar({ navOpen }) {
       },
       {
         label: 'Experience',
-        link: '#reviews',
+        link: '#experience',
         className: 'nav-link'
       },
       {
         label: 'Project',
-        link: '#work',
+        link: '#project',
         className: 'nav-link'
       },
       {

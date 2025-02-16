@@ -7,26 +7,30 @@ import React from 'react'
 import { ButtonPrimary } from './Button';
 
 const sitemap = [
-    {
-      label: 'Home',
-      href: '#home'
-    },
-    {
-      label: 'About',
-      href: '#about'
-    },
-    {
-      label: 'Work',
-      href: '#work'
-    },
-    {
-      label: 'Reviews',
-      href: '#reviews'
-    },
-    {
-      label: 'Contact me',
-      href: '#contact'
-    }
+        {
+            label: 'Home',
+            href: '#home'
+        },
+        {
+            label: 'About',
+            href: '#about'
+        },
+        {
+            label: 'Skill',
+            href: '#skills'
+        },
+        {
+            label: 'Experience',
+            href: '#experience'
+        },
+        {
+            label: 'Project',
+            href: '#project'
+        },
+        {
+            label: 'Contact me',
+            href: '#contact'
+        }
     ];
   
 const socials = [

@@ -62,7 +62,7 @@ export default function Experience() {
 
   
   return (
-    <section id='reviews' className='section overflow-hidden'>
+    <section id='experience' className='section overflow-hidden'>
         <div className='container' >
             <h2 className='headline-2 mb-8 reveal-up'>
                Work Experience

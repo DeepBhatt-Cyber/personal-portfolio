@@ -33,7 +33,7 @@ const works = [
 
 export default function Work() {
   return (
-    <section id='work' className='section'>
+    <section id='project' className='section'>
         <div className='container'>
             <h2 className='headline-2 mb-8 reveal-up'>
                 My portfolio highlights
